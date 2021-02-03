@@ -42,7 +42,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "concurrently": "^5.0.2",
-    "electron": "^6.1.7",
+    "electron": "^9.4.0",
     "electron-builder": "^22.2.0",
     "electron-notarize": "^0.2.1",
     "electron-webpack": "^2.7.4",
